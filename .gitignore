@@ -1,10 +1,12 @@
 # Backups and temporary files
 _ไฟล์สำรองเดิม/
+รูปข้อสอบ/
 charts/inspection_9zones/
 *.bak
 *.tmp
 *.pyc
 __pycache__/
+
 
 # OS and IDE files
 Thumbs.db
