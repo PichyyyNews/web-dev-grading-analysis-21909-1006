@@ -1,0 +1,13 @@
+# Backups and temporary files
+_ไฟล์สำรองเดิม/
+charts/inspection_9zones/
+*.bak
+*.tmp
+*.pyc
+__pycache__/
+
+# OS and IDE files
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/
